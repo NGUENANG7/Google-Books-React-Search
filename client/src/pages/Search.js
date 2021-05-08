@@ -2,7 +2,7 @@ import React, { Component} from "react";
 import { Col, Row, Container } from "../components/Grid";
 import Jumbotron from "../components/Jumbotron";
 // import { Input, Btn } from "../components/Form"
-import API from "../utils/API"
+import {API} from "../utils/API"
 import Card from "../components/Card";
 import SearchForm from "../components/SearchForm";
 import BookDetail from "../components/BookDetail";
