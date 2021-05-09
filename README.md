@@ -15,9 +15,9 @@ React-based Google Books Search app which work with helper/util functions, and u
 
 ## Demo Images
 
-![screenshot](/image.png) 
-![screenshot](/image1.png) 
-![screenshot](/image2.png) 
+![screenshot](image.png) 
+![screenshot](image1.png) 
+![screenshot](image2.png) 
 
 
 ## Contact
